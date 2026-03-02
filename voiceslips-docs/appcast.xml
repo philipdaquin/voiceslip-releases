@@ -4,11 +4,11 @@
         <title>VoiceSlip</title>
         <item>
             <title>1.0.2</title>
-            <pubDate>Mon, 02 Mar 2026 14:23:56 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Mon, 02 Mar 2026 14:42:52 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/philipdaquin/voiceslip-releases/releases/download/v1.0.2/VoiceSlip-1.0.2.zip" length="14738466" type="application/octet-stream" sparkle:edSignature="fUIKhPvgMtYchAK9ZTw5q4tQCa8yZTRkJq7enwM8MtcraS2LzYKwN7knrrxHOaRixOy3oWsWix2/Pu2V+shhDA=="/>
+            <enclosure url="https://github.com/philipdaquin/voiceslip-releases/releases/download/v1.0.2/VoiceSlip-1.0.2.zip" length="14738453" type="application/octet-stream" sparkle:edSignature="NXxtN+G2tHJuuxAIFhyfEPddWyLQ9uh2vodaNhlEQReMNUzTQMOqNQG86kWLGB/0IdSjzG9QC+8JYxEm02gQBQ=="/>
         </item>
     </channel>
 </rss>
